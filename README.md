@@ -2,6 +2,6 @@
 JAGST R package
 
 
-# INSTALL WITH
+# Install with...
 library(devtools)
 install_github('sojourningNorth/JAGST')
